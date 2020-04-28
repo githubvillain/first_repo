@@ -1,4 +1,2 @@
 print('hey....this is first')
-print('hey....this is second')
 print('hey....this is third')
-print('hey....this is forth')
